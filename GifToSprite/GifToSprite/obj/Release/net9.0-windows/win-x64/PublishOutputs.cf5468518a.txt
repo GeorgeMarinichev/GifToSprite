@@ -1,0 +1,2 @@
+C:\Users\SmartPlayer\Desktop\MyC#\GifToSprite\bin\Release\net9.0-windows\win-x64\publish\GifToSprite.pdb
+C:\Users\SmartPlayer\Desktop\MyC#\GifToSprite\bin\Release\net9.0-windows\win-x64\publish\GifToSprite.exe
